@@ -1,0 +1,26 @@
+Order Date ,Product Name,  Region,Units Sold,Unit Price ($), Customer Segment
+01/05/2024,Wireless Mouse,North,12,"19.99",Consumer
+01/06/2024,Wireless Mouse,North,12,"19.99",Consumer
+01/07/2024,USB-C Hub,South,5,"34.50",Business
+01/08/2024,Laptop Stand,East,,"29.00",Consumer
+01/09/2024,USB-C Hub,South,8,"34.50",Business
+01/10/2024,Mechanical Keyboard,West,3,"79.99",Consumer
+01/12/2024,Wireless Mouse,North,20,"19.99",Business
+01/13/2024,Laptop Stand,East,7,"29.00",Consumer
+01/15/2024,Webcam HD,South,,"45.00",Business
+01/16/2024,Mechanical Keyboard,West,6,"79.99",Consumer
+01/18/2024,USB-C Hub,North,10,"34.50",Consumer
+01/20/2024,Webcam HD,East,4,"45.00",Business
+01/22/2024,Wireless Mouse,South,15,"19.99",Consumer
+01/25/2024,Mechanical Keyboard,North,,"79.99",Business
+01/27/2024,Laptop Stand,West,9,"29.00",Consumer
+02/01/2024,Webcam HD,North,6,"45.00",Consumer
+02/03/2024,USB-C Hub,East,11,"34.50",Business
+02/05/2024,Wireless Mouse,West,18,"19.99",Consumer
+02/08/2024,Mechanical Keyboard,South,4,"79.99",Business
+02/10/2024,Laptop Stand,North,,"29.00",Consumer
+02/12/2024,Webcam HD,West,7,"45.00",Consumer
+02/15/2024,USB-C Hub,South,9,"34.50",Business
+02/18/2024,Wireless Mouse,East,14,"19.99",Consumer
+02/20/2024,Mechanical Keyboard,East,5,"79.99",Business
+02/22/2024,Laptop Stand,South,8,"29.00",Consumer
